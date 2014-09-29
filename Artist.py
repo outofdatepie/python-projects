@@ -1,0 +1,11 @@
+import turtle
+llama=turtle.Turtle()
+llama.pensize(10)
+llama.color('blue')
+llama.forward(100)
+llama.right(120)
+llama.forward(100)
+llama.right(120)
+llama.forward(100)
+llama.right(120)
+llama.forward(100)
