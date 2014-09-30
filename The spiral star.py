@@ -1,4 +1,4 @@
-# http://studio.code.org/s/1/level/25
+
  
 from random import random
 from turtle import Turtle
